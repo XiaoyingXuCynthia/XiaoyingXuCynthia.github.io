@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://xuxiaoyingcynthia.github.io
+Sitemap: https://xuxiaoyingcynthia.github.io/sitemap.xml
