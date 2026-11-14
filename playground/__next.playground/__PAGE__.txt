@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[484,[],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"inner-page","children":[["$","header",null,{"children":[["$","a",null,{"href":"/","children":"← X²Y"}],["$","h1",null,{"children":["04"," / ","PLAYGROUND"]}]]}],["$","section",null,{"className":"single-record empty-record","children":[["$","h1",null,{"children":"><(((°>"}],["$","p",null,{"children":"摄影、旅行记录与小型实验正在整理中。"}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"cpOxuYKQq5QI8KgMgFBfJ"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"inner-page","children":[["$","header",null,{"children":[["$","a",null,{"href":"/","children":"← X²Y"}],["$","h1",null,{"children":["04"," / ","PLAYGROUND"]}]]}],["$","section",null,{"className":"single-record empty-record","children":[["$","h1",null,{"children":"><(((°>"}],["$","p",null,{"children":"摄影、旅行记录与小型实验正在整理中。"}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"J4mMwpNDdDQ0R2awWn9E4"}
 4:null
