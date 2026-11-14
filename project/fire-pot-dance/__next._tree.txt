@@ -1,4 +1,4 @@
 :HL["/_next/static/css/9c68d293f5f28e8a.css","style"]
 :HL["/_next/static/css/e6d3adcb020cd4f2.css","style"]
 :HL["/_next/static/css/3cbc187b63d143e7.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"project","param":null,"prefetchHints":0,"slots":{"children":{"name":"fire-pot-dance","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"J4mMwpNDdDQ0R2awWn9E4"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"project","param":null,"prefetchHints":0,"slots":{"children":{"name":"fire-pot-dance","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"niQtFSP55krIoKVGd-om5"}
